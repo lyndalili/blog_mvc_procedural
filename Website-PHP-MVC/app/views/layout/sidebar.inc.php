@@ -46,7 +46,7 @@
         <h2 class="widget-title">Instagram Grille</h2>
         <div class="instagram-wrapper clearfix">
             <!-- LightWidget WIDGET -->
-            <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3ff436bd8c8b584e9a2c94d373299ae1.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+          <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/114d6f386fd951d8a9e403780209a045.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
         </div><!-- end Instagram wrapper -->
     </div><!-- end widget -->
 
